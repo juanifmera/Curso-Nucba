@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.links {
+    display: flex;
+    justify-content: start;
+}
+
+.primary {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+
+.navcontainer {
+    background-color: #17678E;
+    box-sizing: border-box;
+    width:100%;
+    height: 50px;
+}
